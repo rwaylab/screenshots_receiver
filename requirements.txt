@@ -1,0 +1,4 @@
+kafka-python==1.4.6
+Pillow==6.0.0
+pytz==2019.1
+aiokafka==0.5.1
